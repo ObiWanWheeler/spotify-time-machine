@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAbstractClassInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyArgumentListInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyAssignmentToLoopOrWithParameterInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyComparisonWithNoneInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyDictDuplicateKeysInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyNoneFunctionAssignmentInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E741" />
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPropertyAccessInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PySuperArgumentsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
